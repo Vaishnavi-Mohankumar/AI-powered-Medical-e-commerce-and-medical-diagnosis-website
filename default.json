@@ -1,0 +1,14 @@
+{
+  "jwtSecret": "your_jwt_secret_here",
+  "mongoURI": "mongodb://localhost:27017/medicare",
+  "googleCloudAPIKey": "your_google_cloud_api_key",
+  "infermedicaAppId": "your_infermedica_app_id",
+  "infermedicaAppKey": "your_infermedica_app_key",
+  "monkeyLearnAPIKey": "your_monkeylearn_api_key",
+  "openaiAPIKey": "your_openai_api_key",
+  "stripeSecretKey": "your_stripe_secret_key",
+  "awsAccessKeyId": "your_aws_access_key",
+  "awsSecretAccessKey": "your_aws_secret_key",
+  "awsRegion": "us-east-1",
+  "awsBucketName": "medicare-prescriptions"
+}
