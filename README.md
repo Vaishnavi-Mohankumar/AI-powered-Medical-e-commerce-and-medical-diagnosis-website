@@ -1,0 +1,2 @@
+# AI-powered-Medical-e-commerce-and-medical-diagnosis-website
+A unified, open-source AI platform transforming healthcare access through intelligent diagnosis, medical report/image analysis, OCR prescription reading, voice-enabled chatbot, smart medicine recommendations and autonomous drone delivery. Built with scalable cloud &amp; edge architecture using React, Node.js, Python, TensorFlow, and DroneKit.
